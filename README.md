@@ -1,12 +1,12 @@
 # TAMID at Brandeis Senior Software Engineer (Web) Application
 
-## Base Challenge
+## Challenge
 
 For this application, you are expected to create a React application that displays random user data from the [Random Data API](https://random-data-api.com/documentation) and display it in a stylistic way using Material-UI and Styled Components. 
 
 You should have two pages in your application: your root page (for example, found at `www.your-site.com/`) and a resource page (for example, `www.your-site.com/:user-id`) which would show more detail about a specific user. You should display all of the information that the API returns.
 
-Additionally, both pages should be responsive on all viewports.
+**Both of the pages should be fully responsive on mobile, tablet, and desktop**.
 
 ## Expected Technologies, Frameworks, and Tools Used
 
